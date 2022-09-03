@@ -18,11 +18,11 @@ void Prime::calculation(void)
 {
 	if(n%2==0)
 	{
-		cout << "Entered No. is not prime";
+		cout << "Entered No. is Even";
 	}
 	else
 	{
-		cout << "Entered No. is prime number";
+		cout << "Entered No. is Odd";
 	}
 }
 int main()
